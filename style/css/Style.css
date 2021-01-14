@@ -89,18 +89,27 @@ input[type=submit]:hover {
     justify-content: space-around;
 }
 
+.image-grid {
+    border:groove;
+    border-radius: 3%;
+    border-style: double;
+    border-color: black;
+}
+
 .image-grid h3 {
-    position:absolute;
+    border:groove;
+    border-radius: 3%;
+    border-style: double;
+    border-left: none;
+    border-right: none;
+    border-color: black;
+    position:center;
     bottom: 0;
     color:#163944;
     background-color:#d1d0ca;
-    width: 100%;
+    width: flex;
+    line-height: 200%;
     text-align: center;
     vertical-align: middle;
     font-size: 100%; 
-}
-
-.image-grid {
-    position: relative;
-    overflow: hidden;
 }
