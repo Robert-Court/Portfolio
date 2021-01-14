@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
 
 * {
     box-sizing: boder-box;
     margin: 0px;
     padding: 0px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Didact Gothic", sans-serif;
 }
 
 li, a {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
     color: #163944;
     text-decoration: none;
 }
@@ -29,7 +29,7 @@ header {
 }
 
 .navbar {
-    background-color: #fff598;
+    background-color: #999892;
 }
 
 .navbar-nav {
@@ -85,15 +85,19 @@ input[type=submit]:hover {
     border-radius: 5px;
     background-color: none;
     padding: 20px;
+    align-items: flex-start;
+    justify-content: space-around;
 }
 
 .image-grid h3 {
     position:absolute;
     bottom: 0;
     color:#163944;
-    background-color:#fff598;
+    background-color:#d1d0ca;
     width: 100%;
     text-align: center;
+    vertical-align: middle;
+    font-size: 100%; 
 }
 
 .image-grid {
