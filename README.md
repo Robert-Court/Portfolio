@@ -6,7 +6,7 @@ Portfolio with navbar linking to: 'About', 'Portfolio', 'Github', 'LinkedIn, 'Re
 
 ### Screenshot
 
-![Screen shot of 'About' page.](assets/imageAbout.jpg)
+![Screen shot of 'About' page.](assets/images/imageAbout.JPG)
 
 
 ### Link
