@@ -1,14 +1,14 @@
 # Portfolio
 ### Description:
 
-Portfolio with navbar linking to: 'about', 'portfolio' and 'contact' pages.
+Portfolio with navbar linking to: 'About', 'Portfolio', 'Github', 'LinkedIn, 'Resume' and 'Contact' pages.
 
 
 ### Screenshot
 
-![Screen shot of 'About' page.](style/imageAbout.png)
+![Screen shot of 'About' page.](assets/imageAbout.png)
 
 
 ### Link
 
-https://robert-court.github.io/Portfolio/
+https://github.com/Robert-Court
